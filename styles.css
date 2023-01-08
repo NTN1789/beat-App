@@ -88,8 +88,8 @@ footer {
   display: flex;
   justify-content: space-around;
   height: 17vh;
-  align-items: center;
-  align-items-color: white;
+  align-itens: center;
+  align-itens-color: white;
 }
 
 footer > nav:first-of-type {
