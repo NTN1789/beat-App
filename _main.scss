@@ -1,0 +1,35 @@
+main 
+        background-color: $color-main
+        display: flex
+        flex-direction: column
+        align-items: center
+        width: 100%
+        gap: 30px
+
+main>section 
+    display: flex
+    flex-direction: column
+    gap: 20px
+    width: 100%
+
+main > p 
+
+    font-size: 2rem
+
+.imgs-section 
+    display: flex
+    flex-direction: column
+.linha 
+    display: flex
+    justify-content: space-evenly    
+
+.img-section > img 
+    width: 600px
+
+h3
+    font-size: 2rem
+    margin-bottom: 1em
+
+&:hover 
+    cursor: pointer
+    color: white

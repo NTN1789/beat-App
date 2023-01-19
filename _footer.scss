@@ -1,0 +1,24 @@
+color-container:
+
+footer
+ background-color:$color-container
+ display: flex
+ justify-content: space-around
+ height: 17vh
+ align-itens: center
+  color: white   
+
+footer>nav:first-of-type
+ width:20vw
+display:flex
+ justify-content: space-between
+    
+
+footer > nav:last-of-type 
+    width: 30vw
+
+
+ion-icon 
+    font-size: 40px
+
+ 
